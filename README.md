@@ -90,3 +90,25 @@ Threats:
 - Dependence on resources and public agents for changes (changes of government and changes of positions);
 - Underreporting of data, filling errors;
 - Project not very attractive for financing.
+
+**References**
+Data Analysis Phyton
+1. https://pandas.pydata.org/docs/user_guide/timeseries.html
+2. https://pandas.pydata.org/docs/user_guide/visualization.html
+3. https://pandas.pydata.org/docs/user_guide/style.html
+4. https://pandas.pydata.org/docs/user_guide/basics.html
+5. https://numpy.org/numpy-tutorials/features.html 
+6. https://matplotlib.org/stable/index.html 
+7. [ChatGPT](https://https://chat.openai.com/)
+
+**About Burn Pacients**
+1. AMERICAN BURN ASSOCIATION. Annual Report - 22 Edition. Disponível em: https://ameriburn.org/wp-content/uploads/2023/04/final-4.5.23.pdf. Acesso em: 2 de ago. 2022.
+2. Lopes AP, Pessoa LD, Oliveira TRS. Séries temporais de vítimas de queimaduras atendidas no Centro-Oeste e Nordeste do Brasil. Rev Bras Queimaduras 2019;18:27-32.
+3. Brasil. Ministério da Saúde. CONITEC. Relatório de Recomendação. 2018. Disponível em:  http://conitec.gov.br/images/Relatorios/2018/Relatorio_CurativoBiocelulose.pdf).
+4. Brasil. Ministério da Saúde. Óbitos por queimaduras no Brasil: análise inicial dos dados do Sistema de Informações sobre Mortalidade, 2015 a 2020. Boletim Epidemiológico 2022;53:40-48.
+5. Fontana TS, Lopes LV, Linch GFC, Paz AA, Souza EN. Queimaduras no Brasil: Análise retrospectiva de internações e mortalidade. Rev Bras Queimaduras 2020;19:65-71.
+6. Oliveira Z D, Santana D R, Mercês M C, Cerqueira M M B F. Avaliação epidemiológica da morbimortalidade por queimaduras na Região Nordeste do Brasil, no período de 2008 A 2017.Int J Develop Res 2020;10:39499-39505.
+7. Al-Shaqsi S, Al-Busaidi S, Al-Kashmiri A, Alaraimi R, Al-Buloushi T. Epidemiology of Burn in Sultanate of Oman. World J Plast Surg 2016;5:2-7.
+8. Cheng W, Shen C, Zhao D, Zhang H, Tu J, Yuan Z, et al. With the Epidemiological Study Group of Burns. The epidemiology and prognosis of patients with massive burns: A multicenter study of 2483 cases. Burns 2019;45:705-16.
+9. Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise em Saúde e Vigilância de Doenças Não Transmissíveis. Viva Inquérito 2017: Vigilância de Violências e Acidentes em Serviços Sentinelas de Urgência e Emergência – Capitais e Municípios / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Análise em Saúde e Vigilância de Doenças Não Transmissíveis. – Brasília : Ministério da Saúde, 2019.
+10. Freire, Sofia Dantas Moraes et al. Perfil epidemiológico das vítimas de queimadura por macrorregiões no brasil no período de 2018 a 2022. In: XIII CONGRESSO BRASILEIRO DE QUEIMADURAS, n.  8. 2023, Salvador.
