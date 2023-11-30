@@ -1,2 +1,4 @@
 # Burn_Project
-Descriptive analyses about burn patients in South Brazil (2013-2023)
+
+**Burn patient in South Brazil: a Descriptive Analysis with open database of 10 years (2013-2023)**
+
