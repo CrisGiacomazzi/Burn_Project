@@ -45,3 +45,48 @@ In order to facilitate the analysis, the groups available received the following
 * No important outliers were identified that needed to be removed.
 * "Totals" columns in the raw dataframe were excluded in cases that could interfere with the analysis and creation of graphs.
 * In some cases it was necessary to join columns from different dataframes to generate a graph.
+
+**4) Dictionary** 
+(main file)
+
+**5) Analysis**
+(main file)
+
+**6) Interpretation and Conclusion**
+
+In the last decade in South Brazil (RGS), a predominance of males and white people in hospitalizations due to burns was observed, with a progressive increase also between females throughout the period analyzed.
+
+Exposure to smoke, fire and flames (group 2) was the most importante cause of hospitalization for burns in RGS between 2013 and 2023. Then, contact with heat sources and hot substances (group 3) and finally exposure to electrical current, radiation, or extreme environmental temperatures and pressures (group 1). It is noteworthy that the number of hospitalizations has fluctuated since 2013, less variation in group 1.
+
+It is essential to highlight that the etiology of burns in group 2 was the most prevalent in relation to hospitalizations, while group 1 had the highest number od deaths. Also, in relation to deaths, there was a more significant increase in 2018 and 2020 in group 1 with the maximum value in 2022, while in groups 2 and 3, the incidence remained stable.
+
+The regions with the longest length of stay are nearby, probably due to the accredited and reference hospital network available. According to the Brazilian Burns Society website, the reference centers for burn treatment are in Porto Alegre city, at the Hospital Cristo Redentor and Pronto Socorro Hospital. Therefore, the lower average in other regions may be due to hospital transfers to treatment reference centers.
+
+These results provide significant insights into the epidemiology of burns in the region, contributing to a more comprehensive understanding of these occurrences.
+
+**7) Communication and Action**
+(main file)
+
+**8) SWOT Analysis**
+
+Strengths:  
+- Large volume databases by DATASUS;
+- Exchange of knowledge with experts in burn rehabilitation;
+- Knowledge for society;
+- Possibility of institutional support.
+
+Weakness:
+- Data quality in DATASUS;
+- Initial research requires further investigation and more advanced techniques;
+- Difficulty calculating hospitalization costs directly in DATASUS.
+
+Oportunities:
+- Education, prevention and awareness programs;
+- Multidisciplinary work;
+- Modification of legislation and public policies;
+- Comparison of results with other regions and learning from other successful places in prevention.
+
+Threats:
+- Dependence on resources and public agents for changes (changes of government and changes of positions);
+- Underreporting of data, filling errors;
+- Project not very attractive for financing.
