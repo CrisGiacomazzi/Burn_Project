@@ -2,7 +2,7 @@
 
 **Burn patient in South Brazil: a Descriptive Analysis with open database of 10 years (2013-2023)**
 
-##Cristiane Mecca Giacomazzi (Data Analyst)
+Cristiane Mecca Giacomazzi (Data Analyst)
 
 This project was developed with Cross-industry standard process for data mining (CRISP-DM) methodology.
 
