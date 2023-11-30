@@ -31,3 +31,17 @@ In order to facilitate the analysis, the groups available received the following
 * Group 2 - X00-X09 (Exposure to smoke, fire and flames)
 * Group 3 - X10-X19 (Contact with heat source and hot substances)
 
+**2) Data Understanding**
+
+* **Data Source**: The databases were chosen within the Hospital Morbidity section of the SUS of the Hospital Information System (SIH/SUS) in [DATASUS](https://https://datasus.saude.gov.br/informacoes-de-saude-tabnet/), using External causes, by place of hospitalization from 2008 onwards. Data are available from 2008 however, we selected January 2013 until August 2023 (maximum available).
+
+* **Initial data exploration**: the original dataframes are in csv format and showed an error when reading directly in Google Colab, due to the existence of graphic signs, which is why I opted for structuring and cleaning on Google sheets, focusing on data analysis here.
+
+**3) Data Preparation**
+
+* Missing data were not removed. They means the absence of a case.
+* There were no duplicate data.
+* All accents and graphic signs were removed on Google sheets.
+* No important outliers were identified that needed to be removed.
+* "Totals" columns in the raw dataframe were excluded in cases that could interfere with the analysis and creation of graphs.
+* In some cases it was necessary to join columns from different dataframes to generate a graph.
